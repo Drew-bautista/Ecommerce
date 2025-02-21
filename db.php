@@ -1,5 +1,5 @@
 <?php
-$host = "ecommerce-production-60ec.up.railway.app";  // Palitan kung iba ang host sa Railway
+$host = "mysql.railway.internal";  // Palitan kung iba ang host sa Railway
 $port = 3306;                      // Default MySQL port
 $dbname = "railway";     // Palitan ng tamang database name
 $username = "root";        // Palitan ng username mula Railway
